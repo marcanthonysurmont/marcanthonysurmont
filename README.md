@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Anthony</h1>
 <h3 align="center">A passionate PHP Backend Developer from Belgium</h3>
 
-- 🔭 I’m currently working on **Grow-Rework**
+- 🔭 I’m currently working on **Flashy**
 
 - 📫 How to reach me **surmont.marc.anthony@gmail.com**
 
