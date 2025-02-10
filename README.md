@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc Anthony</h1>
-<h3 align="center">A passionate PHP Backend Developer from Belgium</h3>
+<h3 align="center">A passionate Laravel Backend Developer from Belgium</h3>
 
 - 🔭 I’m currently working on **Tunofy**
 
